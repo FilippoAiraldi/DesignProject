@@ -1,0 +1,10 @@
+INPUTS: not-targeted, UX, DesignNotSpecified, Creative, 1
+PATHS FOUND: 6
+BEST PATH: N. 1
+
+1) START -> 1 Literature Review -> 2.1 Heuristic Evaluation -> 3 Morphological Chart -> 4.1 Behavioral Lenses -> 5.2 Actors Map -> 6.2 Mash Up -> 7.2 Customer Experience Map -> 8 Through other Eyes -> 9 Wireframes -> 10 Clickable Prototyping -> 11 Co Discovery
+2) START -> 1 Literature Review -> 2.1 Heuristic Evaluation -> 3 Morphological Chart -> 4.1 Behavioral Lenses -> 5.2 Actors Map -> 6.2 The AOKI Method -> 7.2 Customer Experience Map -> 8 Through other Eyes -> 9 Wireframes -> 10 Clickable Prototyping -> 11 Co Discovery
+3) START -> 1 Literature Review -> 2.1 Heuristic Evaluation -> 3 Morphological Chart -> 4.1 Behavioral Lenses -> 5.2 Actors Map -> 6.2 Empathy in Action -> 7.2 Customer Experience Map -> 8 Through other Eyes -> 9 Wireframes -> 10 Clickable Prototyping -> 11 Co Discovery
+4) START -> 1 Literature Review -> 2.1 Heuristic Evaluation -> 3 Morphological Chart -> 4.1 Behavioral Lenses -> 5.2 Stakeholders Map -> 6.2 Mash Up -> 7.2 Customer Experience Map -> 8 Through other Eyes -> 9 Wireframes -> 10 Clickable Prototyping -> 11 Co Discovery
+5) START -> 1 Literature Review -> 2.1 Heuristic Evaluation -> 3 Morphological Chart -> 4.1 Behavioral Lenses -> 5.2 Stakeholders Map -> 6.2 The AOKI Method -> 7.2 Customer Experience Map -> 8 Through other Eyes -> 9 Wireframes -> 10 Clickable Prototyping -> 11 Co Discovery
+6) START -> 1 Literature Review -> 2.1 Heuristic Evaluation -> 3 Morphological Chart -> 4.1 Behavioral Lenses -> 5.2 Stakeholders Map -> 6.2 Empathy in Action -> 7.2 Customer Experience Map -> 8 Through other Eyes -> 9 Wireframes -> 10 Clickable Prototyping -> 11 Co Discovery

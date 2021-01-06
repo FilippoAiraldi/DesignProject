@@ -1,0 +1,8 @@
+﻿  rcc MainWindow.qrc
+  moc MainWindow.h
+  DesignMethodToolKit.cpp
+  MainWindow.cpp
+  main.cpp
+  moc_MainWindow.cpp
+  qrc_MainWindow.cpp
+  DesignProject.vcxproj -> C:\Users\f80846c\Documents\MY_DOCS\_sourceCodes\DesignProject\x64\Release\DesignProject.exe

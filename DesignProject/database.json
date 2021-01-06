@@ -1,0 +1,1012 @@
+{
+    "categories": [
+        {
+            "idnumber": 1,
+            "instruments": [
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 1,
+                    "description": "Conversation between a researcher and a participant in a face-to-face situation.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "1-on-1 Interview",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 1,
+                    "description": "A research document which holds relevant and indepth information about the problem at hand, deriving from books, articles, dissertations, conferences.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Literature Review",
+                    "subcategory": 1,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 1,
+                    "description": "Participants create their entries in the context of their location, on their mobile device, capturing the moment of truth.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Mobile Diary Study",
+                    "subcategory": 1,
+                    "tmax": 80,
+                    "tmin": 40,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 1,
+                    "description": "A survey or questionnaire, is a primary research tool, in most cases designed for statistical analysis.",
+                    "design": "SD",
+                    "istargeted": true,
+                    "name": "Survey",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1
+            ]
+        },
+        {
+            "idnumber": 2,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 2,
+                    "description": "Assignments, where users photograph topics that are relevant for the project; this gives clear insights on how the user perceive specific subject.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Photo Safari",
+                    "subcategory": 2,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 2,
+                    "description": "A brainstorm technique that randomly combines different categories into one concept providing a range of unexpected ideas.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Mash Up",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 2,
+                    "description": "Showing the causes of a specific event, by filling a six arms diagram with the problem and its causes.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Fishbone Diagram",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 2,
+                    "description": "Who, What, Where, When, Why and How is a method used to obtain a thorough understanding of a problem.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "WWWWWH",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 2,
+                    "description": "A tool to clarify the hierarchy of problems, putting theme in a branched order.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Problem Tree",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 2,
+                    "description": "Experts analyze whether a user interface follows a list of usability heuristics, to identify user problems.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Heuristic Evaluation",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "UX"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 2,
+                    "description": "A target group discussions of 6 to 12 people, led by a moderator, to get feedback about a product or service design in an open conversation.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Focus Group",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 2,
+                    "description": "Putting images or words on a large paper, about a group ideas, expectations, feelings and associations around a specific theme.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "Collage",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 2,
+                    "description": "Eight conceptual themes flow out from the main theme and each of them are used as central theme to generate 8 more themes for ideas generation.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Lotus Blossom",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 2,
+                    "description": "Same as brainstorming; ideas are generated by asking people to write them down instead of verbally presenting.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Brain Writing",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1,
+                2
+            ]
+        },
+        {
+            "idnumber": 3,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 3,
+                    "description": "Group voting in a collective way of prioritizing and converging on a design solution.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "Dot Voting",
+                    "subcategory": 1,
+                    "tmax": 2,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 3,
+                    "description": "A work plan to prioritize the different features to work on, categorized into Must Have, Should Have, Could Have, or Would Like But Wont Get.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Moscow",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 3,
+                    "description": "A method that splits a solution into smaller chunks that can then be analyzed and ideated for independently, then ideas can be mixed to develop different solutions.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Morphological Chart",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1
+            ]
+        },
+        {
+            "idnumber": 4,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "Observing the participants in the location and context of their usual activities, to understand how the design could fit with their routines.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Day In The Life",
+                    "subcategory": 1,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "A target group discussions of 6 to 12 people, led by a moderator, to get feedback about a product or service design in an open conversation.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Focus Group",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "To know people feelings about a product/service/brand based on real life experiences through writing a love or breakup letter.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Break Up/Love Letter",
+                    "subcategory": 1,
+                    "tmax": 2,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "To understand the behavior of the target and to create strategies to design for behavior change.",
+                    "design": "UCD",
+                    "istargeted": false,
+                    "name": "Behavioral Lenses",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 4,
+                    "description": "Collection of data from the user life and context.",
+                    "design": "UCD",
+                    "istargeted": false,
+                    "name": "Cultural Probes",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "Participants create their entries in the context of their location, on their mobile device, capturing the moment of truth.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Mobile Diary Study",
+                    "subcategory": 1,
+                    "tmax": 80,
+                    "tmin": 40,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "Collages, of glueing images or words onto paper, and stories made by participants that help to understand their point of view on a specific topic.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Research Collage",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 4,
+                    "description": "Mental map of an environment, to gain understanding of the way users navigate through a design solution.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "Cognitive Map",
+                    "subcategory": 2,
+                    "tmax": 16,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 4,
+                    "description": "Experts analyze whether a user interface follows a list of usability heuristics, to identify user problems.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Heuristic Evaluation",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "UX"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 4,
+                    "description": "A research document which holds relevant and indepth information about the problem at hand, deriving from books, articles, dissertations, conferences.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Literature Review",
+                    "subcategory": 2,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 4,
+                    "description": "A survey or questionnaire, is a primary research tool, in most cases designed for statistical analysis.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "Survey",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 4,
+                    "description": "Conversation between a researcher and a participant in a face-to-face situation.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "1-on-1 Interview",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1,
+                2
+            ]
+        },
+        {
+            "idnumber": 5,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 5,
+                    "description": "A map that illustrates a user emotional experience through the interaction with an organization, product, or brand.",
+                    "design": "UCD",
+                    "istargeted": false,
+                    "name": "Emotional Journey",
+                    "subcategory": 1,
+                    "tmax": 40,
+                    "tmin": 16,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 5,
+                    "description": "A tool to help a design team to empathize with target, understanding thei needs and desires.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Empathy Map",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 5,
+                    "description": "A large poster with design personality sketched out, focus on product experience.",
+                    "design": "UCD",
+                    "istargeted": false,
+                    "name": "Design Persona",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "Product"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 5,
+                    "description": "An archetypical character that is used to represent a group of possible users and it is based on real data.",
+                    "design": "UCD",
+                    "istargeted": false,
+                    "name": "Persona",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 5,
+                    "description": "Translating collected data into a story, leaving out specific words that describe important and emotional concepts and changing them for Emojis.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Emoji Story",
+                    "subcategory": 1,
+                    "tmax": 2,
+                    "tmin": 0.5,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 5,
+                    "description": "It represents the relationship between stakeholders.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Actors Map",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "Service"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 5,
+                    "description": "A summarized map of all the stakeholders and their relationship with each other.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Stakeholders Map",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "Service"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 5,
+                    "description": "A diagram that shows all possible logical relations between a finite collection of pieces of information.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Venn Diagram",
+                    "subcategory": 3,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 5,
+                    "description": "Representation of complex information in a clear way doing infographics, structuring data.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Infographics",
+                    "subcategory": 3,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 5,
+                    "description": "A visual representation of ideas tht shows all pieces of information gathered and how they are related to each other, starting from a key word and linking connected topics.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Mind Map",
+                    "subcategory": 3,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 5,
+                    "description": "An ethnographic framework giving structure to observations and ensuring to do not miss any important data.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Nine Dimensions",
+                    "subcategory": 3,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "idnumber": 6,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "To know people feelings about a product/service/brand based on real-life experiences through writing a love or break-up letter.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Break-up/Love Letter",
+                    "subcategory": 1,
+                    "tmax": 2,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "Writing down the design challenge into a negative one, forcing to look at it from a refreshing angle to have a collection of of new, creative ideas.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Dark Side",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 6,
+                    "description": "Fast freehand drawing.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Concept Sketch",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "Product"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "Discover solutions and features outside of the system related to the defined problem, to apply them to the problem one.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Boundary Shifting",
+                    "subcategory": 1,
+                    "tmax": 16,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "A brainstorming method that uses our sense to generate ideas.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Sensorial",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Mash Up",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "The KJ Method",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Lotus Blossom",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Brain Writing",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "The AOKI Method",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "UCD",
+                    "istargeted": false,
+                    "name": "Empathy in Action",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Backcasting",
+                    "subcategory": 3,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "Service"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Written Scenario",
+                    "subcategory": 3,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "VIP Deconstruction",
+                    "subcategory": 3,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "Product"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "VIP Design",
+                    "subcategory": 3,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "Product"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Moodboard",
+                    "subcategory": 4,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 6,
+                    "description": "x.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "Collage",
+                    "subcategory": 4,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "idnumber": 7,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 7,
+                    "description": "x.",
+                    "design": "GD",
+                    "istargeted": true,
+                    "name": "Dot Voting",
+                    "subcategory": 1,
+                    "tmax": 2,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 7,
+                    "description": "x.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Harris Profile",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 7,
+                    "description": "x.",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Customer Experience Map",
+                    "subcategory": 2,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 7,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "Stakeholders Map",
+                    "subcategory": 2,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "Service"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 7,
+                    "description": "x.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Future Workshop",
+                    "subcategory": 2,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "Service"
+                }
+            ],
+            "subcategories": [
+                1,
+                2
+            ]
+        },
+        {
+            "idnumber": 8,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 8,
+                    "description": "x.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": true,
+                    "name": "Paper Prototyping",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "UX"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 8,
+                    "description": "x.",
+                    "design": "SD",
+                    "istargeted": false,
+                    "name": "People Planet Profit",
+                    "subcategory": 1,
+                    "tmax": 2,
+                    "tmin": 1,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 8,
+                    "description": "x.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Navigation Map",
+                    "subcategory": 1,
+                    "tmax": 4,
+                    "tmin": 2,
+                    "type": "Product"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 8,
+                    "description": "x.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Prototype for Empathy",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 8,
+                    "description": "x.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Through other Eyes",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Creative",
+                    "category": 8,
+                    "description": "x.",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Co-Discovery",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1
+            ]
+        },
+        {
+            "idnumber": 9,
+            "instruments": [
+                {
+                    "approach": "Creative",
+                    "category": 9,
+                    "description": "x",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Storyboard",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                },
+                {
+                    "approach": "Analytic",
+                    "category": 9,
+                    "description": "x",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Wireframes",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "UX"
+                }
+            ],
+            "subcategories": [
+                1
+            ]
+        },
+        {
+            "idnumber": 10,
+            "instruments": [
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 10,
+                    "description": "x",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Cellar Door Tool",
+                    "subcategory": 1,
+                    "tmax": 16,
+                    "tmin": 2,
+                    "type": "Product"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 10,
+                    "description": "x",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Clickable Prototyping",
+                    "subcategory": 1,
+                    "tmax": 16,
+                    "tmin": 8,
+                    "type": "UX"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 10,
+                    "description": "x.",
+                    "design": "DesignNotSpecified",
+                    "istargeted": false,
+                    "name": "Video Prototyping",
+                    "subcategory": 1,
+                    "tmax": 40,
+                    "tmin": 8,
+                    "type": "Service"
+                }
+            ],
+            "subcategories": [
+                1
+            ]
+        },
+        {
+            "idnumber": 11,
+            "instruments": [
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 11,
+                    "description": "x",
+                    "design": "SD",
+                    "istargeted": true,
+                    "name": "1-on-1 Interview",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 4,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 11,
+                    "description": "x",
+                    "design": "UCD",
+                    "istargeted": true,
+                    "name": "Wizard of OZ",
+                    "subcategory": 1,
+                    "tmax": 16,
+                    "tmin": 8,
+                    "type": "All"
+                },
+                {
+                    "approach": "ApproachNotSpecified",
+                    "category": 11,
+                    "description": "x",
+                    "design": "GD",
+                    "istargeted": false,
+                    "name": "Co Discovery",
+                    "subcategory": 1,
+                    "tmax": 8,
+                    "tmin": 2,
+                    "type": "All"
+                }
+            ],
+            "subcategories": [
+                1
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+INPUTS: targeted, Product, UCD, Creative, 1
+PATHS FOUND: 5
+BEST PATH: N. 4
+
+1) START -> 1 Mobile Diary Study -> 2.1 Focus Group -> 3 Dot Voting -> 4.1 Day In The Life -> 5.1 Empathy Map -> 6.2 Sensorial -> 7.2 Future Workshop -> 8 Navigation Map -> 9 Storyboard -> 10 Cellar Door Tool -> 11 Wizard of OZ
+2) START -> 1 Mobile Diary Study -> 2.1 Focus Group -> 3 Dot Voting -> 4.1 Mobile Diary Study -> 5.1 Empathy Map -> 6.2 Sensorial -> 7.2 Future Workshop -> 8 Navigation Map -> 9 Storyboard -> 10 Cellar Door Tool -> 11 Wizard of OZ
+3) START -> 1 Mobile Diary Study -> 2.1 Focus Group -> 3 Dot Voting -> 4.1 Focus Group -> 5.1 Empathy Map -> 6.2 Sensorial -> 7.2 Future Workshop -> 8 Navigation Map -> 9 Storyboard -> 10 Cellar Door Tool -> 11 Wizard of OZ
+4) START -> 1 Mobile Diary Study -> 2.1 Focus Group -> 3 Dot Voting -> 4.1 Break Up/Love Letter -> 5.1 Empathy Map -> 6.2 Sensorial -> 7.2 Future Workshop -> 8 Navigation Map -> 9 Storyboard -> 10 Cellar Door Tool -> 11 Wizard of OZ
+5) START -> 1 Mobile Diary Study -> 2.1 Focus Group -> 3 Dot Voting -> 4.1 Research Collage -> 5.1 Empathy Map -> 6.2 Sensorial -> 7.2 Future Workshop -> 8 Navigation Map -> 9 Storyboard -> 10 Cellar Door Tool -> 11 Wizard of OZ
